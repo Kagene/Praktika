@@ -31,6 +31,7 @@
    Дополнительные скриншоты:
 Файл CSV:
 ![1a23258c-4ec6-425f-9eb2-1c91a8769659](https://github.com/Kagene/Praktika/assets/147978324/3ec83a2e-dd7d-49bb-b3b7-1cf9dd7ece6a)
+
 БД:
 ![d37349d9-ea9c-44b5-9dac-dc00ebd74597](https://github.com/Kagene/Praktika/assets/147978324/846d2399-ac55-476e-9f1d-9f16cabdcee8)
 
